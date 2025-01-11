@@ -1,0 +1,5 @@
+region = "ap-south-1"
+access_key = "DONOT DISPLAY HERE"
+secret_key = "DONOT DISPLAY HERE"
+ami = "ami-07b69f62c1d38b012"
+instance_type = "t2.micro"
